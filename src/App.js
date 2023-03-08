@@ -18,7 +18,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Cadastrar
+                Entrar
               </NavLink>
               <NavLink
                 exact
@@ -26,7 +26,7 @@ class App extends Component {
                 activeClassName="pageSwitcherItem-active"
                 className="pageSwitcherItem"
               >
-                Entrar
+                Cadastrar
               </NavLink>
             </div>
 
@@ -36,7 +36,7 @@ class App extends Component {
                 activeClassName="formTitleLink-active"
                 className="formTitleLink"
               >
-                Cadastrar
+                Entrar
               </NavLink>{" "}
               ou{" "}
               <NavLink
@@ -45,7 +45,7 @@ class App extends Component {
                 activeClassName="formTitleLink-active"
                 className="formTitleLink"
               >
-                Entrar
+                Cadastar
               </NavLink>
             </div>
 
